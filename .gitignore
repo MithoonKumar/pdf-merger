@@ -23,3 +23,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+src/main/resources/node_modules/
+src/main/resources/static/dist/
+
